@@ -1,0 +1,18 @@
+body{
+    background-color:lightblue; 
+}
+h1 {
+    text-align: center; border: 5px black solid;
+}
+#skyline{
+    text-align: center;
+}
+.places img{
+height: 150px; 
+Width: 200px;
+}
+h3{color:red;}
+
+ul li a {
+    color:darkblue;
+}
